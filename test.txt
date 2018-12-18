@@ -1,0 +1,3 @@
+Welcome to Randomosity!
+To format lists, add one item per line on a TXT file like this.
+It's just that easy.
